@@ -11,4 +11,7 @@
 
 
 #while (條件) {程式}
-#
+#使用 mysqli_connect() 函式建立資料庫連結
+#使用 mysqli_query() 函式從資料庫查詢資料
+#使用 mysqli_fetch_array() 函式從查詢結果中逐一取出資料
+#顯示每一筆資料的 "id" 和 "pwd" 欄位的值
