@@ -7,6 +7,7 @@
 ?>
 
 
+#session_start()：啟動 PHP 的 Session
 #刪除 Session 中名為 "counter" 的變數  
   #unset($_SESSION['變數'])：刪除Session變數
   #session_unset() 或者session_destroy()也可以刪除Session變數
