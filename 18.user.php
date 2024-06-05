@@ -1,8 +1,6 @@
 <html>
-<head>
-    <title>使用者管理</title>
-</head>
-<body>
+    <head><title>使用者管理</title></head>
+    <body>
 <?php
     // 禁止顯示所有錯誤報告
     error_reporting(0);
